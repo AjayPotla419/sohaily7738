@@ -1,0 +1,18 @@
+div{
+    width:70px;
+    height:70px;
+    border:1px solid;
+    background-color: aqua;
+    transition-duration: 6s;
+    transition-delay: 2s;
+}
+div:hover{
+    background-color: red;
+    border-radius:50%;
+}
+
+
+
+
+
+ 
